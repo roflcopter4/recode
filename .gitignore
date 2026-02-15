@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+/.vs
+
+# Visual Studio artifacts
+/recode/Tests/x64
+/recode/x64
+/x64
+/recode/vcpkg_installed
+*.vcxproj.user
+
+# Build
+/build

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "dependencies": [
+    "libunistring",
+    "libiconv"
+  ],
+  "builtin-baseline": "e6ebaa9c3ca8fca90c63af62fc895c2486609580"
+}

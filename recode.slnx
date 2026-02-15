@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="recode/recode.vcxproj" Id="8d9fec7f-d8bb-4821-a162-ec62e95c3655" />
+  <Project Path="recode/Tests/Test01.vcxproj" Id="346cd09e-efa6-4098-b3b8-91abd4e73783">
+    <BuildDependency Project="recode/recode.vcxproj" />
+  </Project>
+</Solution>
