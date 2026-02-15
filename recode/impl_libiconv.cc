@@ -285,5 +285,5 @@ std::wstring char32_to_wide(char32_t const *orig, size_t length)
 #endif
 
 /****************************************************************************************/
-} // namespace recode::impl::unistring
+} // namespace recode::impl::libiconv
 #endif
